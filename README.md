@@ -1,4 +1,5 @@
 # logdna
+> This is a fork of github.com/ctrlrsf/logdna. Some modifications was made to adapt to private service
 
 A go library for sending logs to LogDNA via their ingest API.
 
@@ -7,7 +8,7 @@ It works but is still under development and subject to change.
 ## Installing
 
 ```
-go get github.com/ctrlrsf/logdna/...
+go get github.com/songtianyi/logdna/...
 ```
 
 ## Using library
